@@ -1,7 +1,7 @@
-$(draw(){
-    // your code here.    
-         var c=document.getElementById('firstBox');
-         var ctx=c.getContext('2d');
-         ctx.fillStyle='#FF0000';
-         ctx.fillRect(0,0,80,100);
+$(document).ready(function () {
+  //your code here
+        var c=document.getElementById('firstBox');
+        var ctx=c.getContext('2d');
+        ctx.fillStyle='#FF0000';
+        ctx.fillRect(0,0,80,100);
 });
