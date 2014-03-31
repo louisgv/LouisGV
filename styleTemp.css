@@ -1,5 +1,9 @@
 body {background-color: #d0e4fe;}
 #firstBox {
+  width:220px;
+  padding:10px;
+  border:5px solid gray;
+  margin:0px;
   -ms-transform:translate(50px,100px); /* IE 9 */
   -webkit-transform:translate(50px,100px); /* Chrome, Safari, Opera */
   transform:translate(50px,100px); /* Standard syntax */
