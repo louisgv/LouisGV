@@ -1,0 +1,16 @@
+.Watcher{
+	background-color: maroon;
+}
+
+
+div {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+.center{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	text-align:center;
+  }
