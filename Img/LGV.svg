@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="500"
+   height="500"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="New document 1">
+  <title
+     id="title3041">LGV</title>
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.49497475"
+     inkscape:cx="307.26493"
+     inkscape:cy="-9.646668"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:object-paths="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1012"
+     inkscape:window-x="1592"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>LGV</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-552.36218)">
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot2985"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><flowRegion
+         id="flowRegion2987"><rect
+           id="rect2989"
+           width="540"
+           height="634.28571"
+           x="140"
+           y="158.07646" /></flowRegion><flowPara
+         id="flowPara2991"></flowPara></flowRoot>    <text
+       xml:space="preserve"
+       style="font-size:1483.77990723px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:IrisUPC;-inkscape-font-specification:IrisUPC"
+       x="-69.911903"
+       y="1373.2991"
+       id="text2993"
+       sodipodi:linespacing="125%"
+       transform="scale(1.301435,0.7683826)"><tspan
+         sodipodi:role="line"
+         id="tspan2995"
+         x="-69.911903"
+         y="1373.2991"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:IrisUPC;-inkscape-font-specification:IrisUPC">L</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:1020.5758667px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:IrisUPC;-inkscape-font-specification:IrisUPC Bold"
+       x="37.554008"
+       y="976.78125"
+       id="text2997"
+       sodipodi:linespacing="125%"
+       transform="scale(0.9476431,1.0552496)"><tspan
+         sodipodi:role="line"
+         id="tspan2999"
+         x="37.554008"
+         y="976.78125"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:IrisUPC;-inkscape-font-specification:IrisUPC">G</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:909.10693359px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:IrisUPC;-inkscape-font-specification:IrisUPC"
+       x="187.05829"
+       y="914.4953"
+       id="text3023"
+       sodipodi:linespacing="125%"
+       transform="matrix(0.88105081,0.0060035,-0.00792859,1.1349543,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan3025"
+         x="187.05829"
+         y="914.4953"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:IrisUPC;-inkscape-font-specification:IrisUPC">V</tspan></text>
+  </g>
+</svg>
