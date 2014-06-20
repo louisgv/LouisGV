@@ -1,50 +1,38 @@
-body{
-	background-color: #414A4C;
-	margin: 0;
+body {
+    margin: 0;
     overflow: auto;
 }
-  
+
 .span {
-	display: block;
-	margin-left: auto;
-	margin-right: auto;
-	right: 0px;
-	left: 0px;
-}
-
-nav li a{
-	position: absolute;
-	top: 0;
-	left: 0;
-    width: 2px;
-}
-
-nav ul {
-   padding:0;
-    margin:0;
-    list-style-type: none;
-}
-
-nav > a {
-	background: linear-gradient(hsla(0, 100%, 50%, 1), hsla(0, 100%, 43%, 1) 50%, hsla(0, 100%, 37%, 1) 50%, hsla(0, 100%, 30%, 1)) repeat scroll 0 0 rgba(0, 0, 0, 0);
-    border: 3px solid #fff;
-    border-radius: 40px;
-    bottom: 0px;
-    box-shadow: 0 0 2px hsla(0, 0%, 0%, 0.6);
-    color: #fff;
-    height: 40px;
-    width: 40px;
-    top: 0;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    right: 0;
     left: 0;
-	font-size: 38px;
-    font-weight: bold;
-    line-height: 30px;
-    position: absolute;
-    text-align: center;
-    z-index: 2;
 }
-nav li {
-    left: 0px;
-    position: absolute;
-    top: 0px;
+
+.full-screen{
+	display: block;
+	height: 100%;
+	width: 100%;
+}
+
+.no1 		{transform:rotate(270deg);}
+.no2 		{transform:rotate(0deg);}
+.no3 		{transform:rotate(180deg);}
+.no4 		{transform:rotate(90deg);}
+.no5 		{transform:rotate(180deg);}
+.no6 		{transform:rotate(90deg);}
+.no7 		{transform:rotate(180deg);}
+.no8 		{transform:rotate(90deg);}
+.no9 		{transform:rotate(270deg);}
+.no10 	{transform:rotate(0deg);}
+.no11 	{transform:rotate(180deg);}
+.no12 	{transform:rotate(90deg);}
+
+.sprite {
+	display: run-in;
+	height: 54px;
+	width: 54px;
+	position: fixed;
 }
