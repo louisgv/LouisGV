@@ -1,0 +1,10 @@
+Differences between new and Instantiate in the Unity Engine
+
+With new keyword, it makes a completely new instance of a "type" of an object.
+
+i.e, a new Vector3(), or a new GameObject()
+
+It basically make a new object (separated) from the previous one. This in turn slow the performance down.
+
+With instantiate, it generate a copy of the "prefab" assigned. Since it has a root, it relate to the prefab in anyway. It is a linked clone, thus Unity can dynamically batch them together.
+
