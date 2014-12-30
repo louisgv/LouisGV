@@ -2,9 +2,45 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head><title>|3lackM III |></title><link rel="stylesheet" type="text/css" href="../../../../Scripts/css/9worlds.css"></head><body class="Eagle"><h1 class="center header">Eagle</h1>
 
+<code>
+/*private void CreateCell(IntVector2 coordinates, GameObject parent){
+		MazeCell newCell = Instantiate (cellPrefab) as MazeCell;
+		cells[coordinates.x,coordinates.z] = newCell;
 
+		newCell.coordinates = coordinates;
+		newCell.name = string.Format("Cell [{0}-{1}]",coordinates.x,coordinates.z);
+		newCell.transform.parent = parent.transform;
+		newCell.transform.localPosition = new Vector3( 
+		                                              coordinates.x - size.x * 0.5f + 0.5f, 
+		                                              0f, 
+		                                              coordinates.z - size.z * 0.5f + 0.5f);
+	}
 
+	private void CreateCell(int x, int z, GameObject parent){
+		MazeCell newCell = Instantiate (cellPrefab) as MazeCell;
+		cells[x,z] = newCell;
+		newCell.name = string.Format("Cell [{0}]",z);
+		newCell.transform.parent = parent.transform;
+		newCell.transform.localPosition = new Vector3( 
+		                                              x - size.x * 0.5f + 0.5f, 
+		                                              0f, 
+		                                              z - size.z * 0.5f + 0.5f);
+		
+	}
 
+	private void CreateCell(int x, int z){
+		MazeCell newCell = Instantiate (cellPrefab) as MazeCell;
+		cells[x,z] = newCell;
+		newCell.name = string.Format("Maze Cell [{0}-{1}]",x,z);
+		newCell.transform.parent = transform;
+		newCell.transform.localPosition = new Vector3( 
+		                                              x - size.x * 0.5f + 0.5f, 
+		                                              0f, 
+		                                              z - size.z * 0.5f + 0.5f);
+
+	}*/
+
+</code>
 
 
 
