@@ -6,9 +6,9 @@
 
 <button onclick="getLocation(); ">Try It</button>
 
-<p id="demo"></p>
+<p id="demo"> </p>
 
-<div id="mapholder"> MAP HERE! </div>
+<div id="mapholder"> </div>
 
 
 <script>
@@ -25,9 +25,10 @@ function getLocation() {
     
 function showPosition(position) {
     x.innerHTML="Latitude: " + position.coords.latitude + 
-    "<br>Longitude: " + position.coords.longitude + 
-	"<br>Speed: " + position.coords.speed ;
-	mapPosition(position);
+    "<br>Longitude: " + position.coords.longitude;
+	//+ "<br>Speed: " + position.coords.speed ;
+	//mapPosition(position);
+	sendPosition(position);
 }
 
 
@@ -39,14 +40,15 @@ function mapPosition(position) {
 "&zoom=14&size=600x300&sensor=false";
 
     document.getElementById("mapholder").innerHTML = "<img src='"+img_url+"'>";
-	
-	var url = 
+}
+
+function sendPosition(position){
+var url = 
 	"www.meretrax.com/whereismybike.php?lat="+position.coords.latitude+ "&long=" +  position.coords.longitude;
 	
 	xmlhttp.open("GET", url, true);
 	xmlhttp.send();
 	
-
 }
 
 </script>
