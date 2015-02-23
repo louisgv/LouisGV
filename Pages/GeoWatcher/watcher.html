@@ -34,7 +34,6 @@ function showPosition(position) {
 
 function mapPosition(position) {
     var latlon = position.coords.latitude + "," + position.coords.longitude ;
-        	
 	var img_url = "http://maps.googleapis.com/maps/api/staticmap?center=" + latlon +
 "&markers=color:green%7Clabel:T%7C" + latlon +
 "&zoom=14&size=600x300&sensor=false";
@@ -43,8 +42,17 @@ function mapPosition(position) {
 }
 
 function sendPosition(position){
-var url = 
-	"www.meretrax.com/whereismybike.php?lat="+position.coords.latitude+ "&long=" +  position.coords.longitude;
+	var lat = position.coords.latitude;
+	var lon = 	position.coords.longitude;
+
+	//var url = "http://www.meretrax.com/whereismybike.php?lat=43&long=22";
+		
+	//open (url);
+	
+ var url = "www.meretrax.com/whereismybike.php?lat=" +
+	lat
+	"&long=" + 
+	lon;
 	
 	xmlhttp.open("GET", url, true);
 	xmlhttp.send();
