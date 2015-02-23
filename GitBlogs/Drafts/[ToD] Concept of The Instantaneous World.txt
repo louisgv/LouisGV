@@ -1,0 +1,5 @@
+I would like to discuss a little bit about the concept I called the Instantaneous World
+
+Imagine, if suppose we have all the data available to us at any given time, can we simulate a world and hope that it run just the same as the real world outside of it?
+
+The question is can we do it?

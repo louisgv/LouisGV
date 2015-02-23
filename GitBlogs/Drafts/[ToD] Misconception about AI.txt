@@ -1,0 +1,173 @@
+
+Super Intelligence Defined	
+
+Where does AI end and Super INteligience begin?
+	When AI has ability for Human Reasoning
+	
+	What is Human Reasoning?
+	
+	Does Human Reasoning Includes "Bias"?
+
+	What is Bias?
+	
+	We are talking about an AI that choose decision, or an AI that makes decision based on a "Bias" intelligence similar to a hidden layer that we could never know what is inside?
+	
+	So is AI and Machine Learning the same, or Robotic wanted to become standalone?
+	
+	AI, BD, CO, DL, ES & Fear
+
+	Two weeks ago Bill Gates hosted an AMA on Reddit, and someone questioned his concern about Super Intelligence. His respond sparked the light bulb of writers with headlines brimmed with fear-indulging words.
+		
+	On April 2014, Elon Musk's Super-intelligent tweet had the same effect.
+	
+	On December 2014, Stephen Hawking also remarked the dangerous of super-intelligent.
+	
+	Google's Brain, Microsoft's Adam, IBM's Watson, and all the datasets they have up their sleeves. It's reasonable to understand the fear of the three person above, even though they no longer dwells deep in the R&D or whatsoever deeper than the outer layer of the problem. However, those who've read about these three should know they can measure the iceberg just by looking at the tip. 
+	AI is swarming fast, and it is coming through all the technology that we are soon to have. The fear is real when it's right near the host, and it's true. We should embrace the internet of things, but I believe a digital privacy awareness campaign must be established first hand. Privacy data is not a joke, unless of course, all  those deep learning startup and A.I researchers see nothing but themselves and their research.
+	True "AI" in the sense of static-programming robot should not be much of a threat, we simply shut them down when issues arise. However, what about a network of A.I? Networks of independent A.I, who, eventually smart enough to build a stand-alone clone of themselves and hide it somewhere just like hiding Zeus from the giant Cronos? 	
+	The concern is not about good or bad. Anything can be miss-used. But there is a distinct difference between these two categories of technology that I believe should not collide with each other in any way meaningful. It seems the fear of robotic should be transferred to the fear of A.I and the Internet of Things instead. We can control robots, but we might not be able to control A.I, especially when it got leak into the Internet of Things, and the fear came when that A.I was suppose to be a virus. Well, maybe the Internet of Things is somewhat related to robotic, but not necessary. A Smart TV is not a robot perse.
+	Data is crucial and must be preserved in anyway possible. A record of a simple event happen while one's asleep or while walking down the street can help predict one's future by several percent. "Predict" might not be the precise word, but rather, "search." Imagine when we can program all of those AI, but instead of throwing them into the real word, we trap them inside of video games and life simulation, stand-alone off-line of course in case someone was fearing that I was suggesting the Matrix team to release a 4th instalment. Now, if we can just speed up these life simulation, like, billions of years each 9 seconds. In about 9 days, we should be able to observe a vast data poll generated from these simulations. There ought to be a seed number, we might record several data with that. Now came the fun part. If we successfully find an individual with life history similar to the one we have recorded, then our chance of guessing how our future might look like is not very far away. The near, instantaneous future is very hard to change, a butterfly flapping can hardly change the weather in a matter of a planck moment. This ideas was adapted from a very entertaining speech "In the beginning was the code" by Juergen Schmidhuber at TEDxUHasselt.
+	A robot that manufactures car. Should we also let it learn how to design the car as well? Or should we left it to the user? A robot that can design a car does sounds to be a threat, it learns from pattern, it interpret humans cognitive operation. However, a robot that simply assembling parts of a car, is in now way a threat in a sense of a Decepticon.
+	
+	
+	
+	
+	Deep Learning
+	A technique
+	
+	Cognitive Operation
+	The limitation that characterized only by human determination
+	
+	Big Data
+	A new field of analyzing data but in term of massive data amount
+	
+	Artificial Intelligence
+	Controllable species' brain made by the species.
+	
+	
+	Conclusion: Identical thought from both entrepeuner side and scientist side of the game proved that the theory is very likly economically and scientifcally.
+	
+	
+	Many new sites 	had to quote the word super INtelligence just so readers can nod, rumble, or feeling the "fears". However, none of them have yet to elaborate enough to explain the god damn situation in 
+	
+	Months ago, Stephen Hawk and Elon Musk also raised concern.
+	
+	I believe there ought to be a huge mis-conception somewhere in this debates.
+	We talk about the machine that can improve itself, recursively.
+	There is only one way I know of... Deep Learning.
+		
+	Cognitive Operation
+		
+	Disclaimer: This article was based entirely on experimental thought, idea and correlation observation in most part. Thus it cannot avoided that some readers might find the content controversial, childish, or tasteless. However, if you spotted any error, misconception, or stupidity at all, please don't hesitate to email the author via lgvichy at gmail dot com. He would love to call you "sensei!"
+	
+	The ambiguous 
+	
+	"human cognitive limitations"
+
+	"catching on," "making sense" of things, or "figuring out"
+	
+	All of these defines "correlation". What makes something happen, is because of something.
+
+
+
+
+
+
+
+
+
+Bill Gates has a warning for humanity: Beware of artificial intelligence in the coming decades, before it's too late.
+
+Microsoft's co-founder joins a list of science and industry notables, including famed physicist Stephen Hawking and Internet innovator Elon Musk, in calling out the potential threat from machines that can think for themselves. Gates shared his thoughts on AI on Wednesday in a Reddit "AskMeAnything" thread, a Q&A session conducted live on the social news site that has also featured President Barack Obama and World Wide Web founder Tim Berners-Lee.
+
+"I am in the camp that is concerned about super intelligence," Gates said in response to a question about the existential threat posed by AI. "First, the machines will do a lot of jobs for us and not be super intelligent. That should be positive if we manage it well. A few decades after that, though, the intelligence is strong enough to be a concern."
+
+Gates, who is co-chair of the Bill & Melinda Gates Foundation, isn't the only one worried. Musk, the billionaire inventor and founder of SpaceX and CEO of electric car maker Tesla Motors, is not an expert in AI. But he did join a growing list of hundreds of researchers and professors in the field who signed an open letter earlier this month that proposed proper safeguards be put in place to research and develop such intelligence without humans losing control.
+
+"I agree with Elon Musk and some others on this and don't understand why some people are not concerned," Gates said.
+Fearing the worst
+
+The reason they're worried is that AI isn't science fiction anymore. In stories and movies, AI is often presented as a good idea gone horribly wrong. In "The Matrix" movie trilogy, machines deem humanity a threat and enslave people in a virtual existence so they can feed off the electricity generated by the human body. When the Skynet computer system in "The Terminator" movie series becomes sentient, it wages a multiyear war using human-like robots designed to kill. HAL 9000, the socio-pathic supercomputer from "2001: A Space Odyssey," is now a cinematic icon -- HAL's robotic tone and malevolent quotes have become pop culture tropes.
+
+Back in the real world, Apple's voice-based personal assistant Siri may seem a little dumb now, but AI is getting smarter as researchers develop ways to let machines teach themselves and mine the deep trove of data produced by our many connected gadgets. IBM's Watson supercomputer has moved on from besting Jeopardy contestants to conducting medical research and diagnosis, and researchers earlier this month detailed a new computer program that can beat anyone at poker. A need to worry? Of course not, but Gates and others are trying to imagine the worst.
+
+Musk in October called AI development "summoning the demon," and has invested in the space to keep his eye on it. Hawking, writing for The Independent in May 2014, also expressed his concerns. "Whereas the short-term impact of AI depends on who controls it, the long-term impact depends on whether it can be controlled at all," Hawking wrote.
+Microsoft's Cortana personal assistant has a few hundred years until it catches up with its fiction video game counterpart, but it marks the beginning of the company's consumer artificial intelligence efforts. Juan Garzon/CNET
+
+Gates' warning comes as Microsoft is developing a machine intelligence called Cortana. The software, based off the well-known AI character from the company's Halo series of video games, is available in Microsoft's Windows Phone mobile software. Cortana will soon make its way onto PCs as part of Windows 10, the new version of the company's popular operating system. Windows 10 with Cortana is due later this year.
+
+Though Gates stepped down as CEO in 2000 and left his role as chairman last year when CEO Satya Nadella took over as chief, he remains a technology adviser in the company, which is the world's largest maker of software. Gates is also working on what he calls Microsoft's Personal Agent project, a kind of software secretary designed to help you remember things and advise you on what to pay attention to.
+
+"The idea that you have to find applications and pick them and they each are trying to tell you what is new is just not the efficient model - the agent will help solve this," he said. "It will work across all your devices."
+
+Gates offered a glimmer of hope for those fearful of our future robot overlords.
+
+A Reddit user asked whether computer programming was a smart career choice for people who aren't expert-level coders, because automation and AI will likely replace all lower-level programmers in the future.
+
+"It is safe for now! It is also a lot of fun and helps shape your thinking on all issues to be more logical," he answered. "Understanding how to program will always be useful."
+
+
+
+/////////////////////////////////////////////////////
+
+
+
+Ladies and gentlemen, please welcome Bill Gates to the A.I. panic of 2015.
+
+During an AMA (ask me anything) session on Reddit this past Wednesday, a user by the name of beastcoin asked the founder of Microsoft a rather excellent question. "How much of an existential threat do you think machine superintelligence will be and do you believe full end-to-end encryption for all internet acitivity can do anything to protect us from that threat (eg. the more the machines can't know, the better)??
+
+Sadly, Gates didn't address the second half of the question, but wrote:
+
+    I am in the camp that is concerned about super intelligence. First the machines will do a lot of jobs for us and not be super intelligent. That should be positive if we manage it well. A few decades after that though the intelligence is strong enough to be a concern. I agree with Elon Musk and some others on this and don't understand why some people are not concerned.
+
+For robo-phobics, the anti-artificial-intelligence dream team is nearly complete. Elon Musk and Bill Gates have the cash and the clout, while legendary cosmologist Stephen Hawking?whose widely-covered fears include both evil robots and predatory aliens?brings his incomparable intellect. All they're missing is the muscle, someone willing to get his or hands dirty in the preemptive war with killer machines.
+
+Actually, what these nascent A.I. Avengers really need is something even more far-fetched: any indication that artificial superintelligence is a tangible threat, or even a serious research priority.
+
+Maybe I'm wrong, though, or too dead-set on countering the growing hysteria surrounding A.I. research to see the first glimmers of monstrous sentience gestating in today's code. Perhaps Gates, Hawking and Musk, by virtue of being incredibly smart guys, know something that I don't. So here's what some prominent A.I. researchers had to say on the topic of superintelligence.
+
+I had originally contacted these individuals for an upcoming Popular Science print story, but if there was ever a time that called for context surrounding A.I., it's right now. In that spirit, I'm running full responses to my questions, with little to no editing or cherry-picking. So the quotes to follow are dense by design. I should also explain that I didn't pick these researchers based on previously published opinions, as a kind of confirmation-bias peanut gallery, but because of their research history and professional experience related to machine learning and deep learning. When people discuss neural networks, cognitive computing, and the general notion of A.I. systems eventually reaching or beating human intelligence, they're usually talking about machine and deep learning. If anyone knows whether it's time to panic, it's these researchers.
+"Artificial superintelligence isn't something that will be created suddenly or by accident."
+
+Here's Dileep George, co-founder of A.I. startup Vicarious, on the risks of superintelligence:
+
+    Historically, there have been panics about many different technologies, from the steam engine to nuclear power and biotechnology. You can sell more newspapers and movie tickets if you focus on building hysteria, and so right now I think there are a lot of overblown fears going around about A.I. As researchers, we have an obligation to educate the public about the difference between Hollywood and reality. The A.I. community as a whole is a long way away from building anything that could be a concern to the general public.
+
+This perspective from Vicarious is relevant not just because of its current work in learning-based A.I., but because Elon Musk has presented the startup as part of his peek behind the curtain. Musk told CNBC that he invested in Vicarious, Ågnot from the standpoint of actually trying to make any investment return. It's purely I would just like to keep an eye on what's going on with artificial intelligence." He also wrote that, ÅgThe leading A.I. companies have taken great steps to ensure safety. The [sic] recognize the danger, but believe that they can shape and control the digital superintelligences and prevent bad ones from escaping into the Internet. That remains to be seen...Åh
+
+So I asked Vicarious what sort of time and resources they devote to safeguarding against the creation of superintelligence. This was the response from D. Scott Phoenix, the other co-founder of Vicarious:
+
+    Artificial superintelligence isn't something that will be created suddenly or by accident. We are in the earliest days of researching how to build even basic intelligence into systems, and there will be a long iterative process of learning how these systems can be created and the best way to ensure that they are safe.
+
+Vicarious isn't doing anything about superintelligence. It's simply not on their radar. So which companies is Musk talking about, and are any of them seriously worried about, as he put it, bad superintelligences Ågescaping into the Internet?Åh How, in other words, do you build a prison for a demon (Musk's description of A.I,. not mine) when demons aren't real?
+
+This is how Yann LeCun, Facebook's director of A.I. research, and founding director of the NYU Center for Data Science, responded to the question of whether companies are actively keeping A.I. from running amok:
+
+    Some people have asked what would prevent a hypothetical super-intelligent autonomous benevolent A.I. to ÅgreprogramÅh itself and remove its built-in safeguards against getting rid of humans. Most of these people are not themselves A.I. researchers, or even computer scientists.
+
+LeCun also addressed one of the main sources of confusion those trying to frame superintelligence as inevitable: the difference between intelligence and autonomy.
+
+    You can have seemingly super-intelligent systems that are not autonomous. For example, if chess playing programs can beat almost all humans, does that mean they have super-human intelligence? Soon, airplane auto-pilots and self-driving systems for cars will be more reliable than human pilots and drivers. Does that mean they are more intelligent than people? In a very narrow way, these systems are Ågmore intelligentÅh than people, but their expertise applies to a very narrow domain, and they have very little autonomy. They canÅft really go beyond the task they were designed to perform.
+
+This is a crucial distinction, and one that gets to the heart of the panic being fueled by Musk, Hawking, and now Gates. A.I. can be smart without being sentient, and capable without being creative. More importantly, A.I. is not racing along some digital equivalent of a biological evolutionary track, competing and reproducing until some beneficial mutation spontaneously triggers runaway superintelligence. That's not how A.I. works.
+"We would be baffled if we could build machines that would have the intelligence of a mouse in the near future, but we are far even from that."
+
+A search algorithm serves up results faster than any human could, but is never going to suddenly grow a code of ethics, and wag its finger at your taste in pornography. Only a science fiction writer, or someone who isn't a computer scientist, can imagine the puzzle of general, human-level intelligence suddenly, miraculously solving itself. And if you believe in one secular miracle, why not add another, in the form of self-assembling superintelligence?
+
+LeCun did come to Musk's defense, saying that his comment compared A.I. to nukes was Ågexaggerated, but also misinterpreted.
+
+    Elon is very worried about existential threats to humanity (which is why he is building rockets with the idea of sending humans colonize other planets). Even if the risk of an A.I. uprising is very unlikely and very far in the future, we still need to think about it, design precautionary measures, and establish guidelines. Just like bio-ethics panels were established in the 1970s and 1980s, before genetic engineering was widely used, we need to have A.I.-ethics panels and think about these issues. But, as Yoshua wrote, we have quite a bit of time. Our systems can outperform humans in very narrow domains, but human-level general A.I. is several decades away, and autonomous general A.I. may never be built.
+
+The researcher who had the most to say on this topic was the one referenced in that last response. Yoshua Bengio is head of the Machine Learning Laboratory at the University of Montreal, and widely considered one of the pioneering researchers in the sub-field of deep learning (along with LeCun). Here's his response to the question of whether A.I. research is inherently dangerous:
+
+    There is no truth to that perspective if we consider the current A.I. research. Most people do not realize how primitive the systems we build are, and unfortunately, many journalists (and some scientists) propagate a fear of A.I. which is completely out of proportion with reality. We would be baffled if we could build machines that would have the intelligence of a mouse in the near future, but we are far even from that. Yet, these algorithms already have very useful technological applications, and more will come. That being said, I do believe that humans will one day build machines that will be as intelligent as humans in most respects. However, this would be very far in the future, hence the current debate is somewhat of a waste of energy. When the question will become relevant, certainly it will be important to bring together scientists, philosophers and jurists to find the best ways to prevent negative consequences of the sort that currently belong to science-fiction.
+
+I also asked whether superintelligence is inevitable. Bengio's response:
+
+    It is very difficult to answer this question without leaving all of the rigour that we normally expect of scientific judgement. I see a lot of good mathematical and computational reasons why A.I. research could one day face a kind of wall (due to exponentially growing complexities) that human intelligence may also face?which could also explain why whales and elephants, which have bigger brains than ours, are not super-intelligent. We just don't know enough to be able to make anything but informed guesses, regarding this question. If this wall-of-complexity hypothesis is true, we might one day have computers that are as smart as humans but have quick access to a lot more knowledge. But by that time, individual humans might have access to that kind of knowledge too (we already do, but slowly, via search engines). That would be very different from the super-intelligence notion. It think more of A.I. as helping minds, just like we had helping hands with the industrial revolution of the last two centuries.
+
+And as for the notion, also proposed by Musk, that A.I. is Ågpotentially more dangerous than nukes,Åh and should be handled with care, Bengio addressed the present, without slamming the door on the future unknown.
+
+    It is currently an irrelevant question. Things might be different in the future, but then we are talking about crystal ball guesses. If we get there, then yes, we should seriously think about such questions.
+
+The common thread in these responses is time. When you talk to A.I. researchers?again, genuine A.I. researchers, people who grapple with making systems that work at all, much less work too well?they are not worried about superintelligence sneaking up on them, now or in the future. Contrary to the spooky stories that Musk seems intent on telling, A.I. researchers aren't frantically installed firewalled summoning chambers and self-destruct countdowns. At best, these scientists are pondering the question of superintelligence. It's not a binary situation. The difference between panic and caution is a matter of degree. If the people most familiar with the state of A.I. research see superintelligence as a low-priority research topic, why are we letting random, unsupported comments from anyone?yes, even Bill Gates?convince us otherwise?
