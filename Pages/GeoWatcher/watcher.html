@@ -4,7 +4,7 @@
 
 <p>Click the button to get your coordinates.</p>
 
-<button onclick="getLocation()">Try It</button>
+<button onclick="getLocation(); ">Try It</button>
 
 <p id="demo"></p>
 
@@ -24,16 +24,17 @@ function getLocation() {
 function showPosition(position) {
     x.innerHTML="Latitude: " + position.coords.latitude + 
     "<br>Longitude: " + position.coords.longitude + 
-	"<br>Accuracy: " + position.coords.accuracy ;	
+	"<br>Speed: " + position.coords.speed ;
+	mapPosition(position);
 }
 
 
 function mapPosition(position) {
-    var latlon = position.coords.latitude + ", " + position.coords.longitude ;
-        
-    document.getElementById("info").innerHTML  = "Lat | Lon: "+ latlon + "<p>Accu: </p>" + accu ;
-	
-	    var img_url = "http://maps.googleapis.com/maps/api/staticmap?center=" + latlon + "&zoom=14&size=400x300&sensor=false";
+    var latlon = position.coords.latitude + "," + position.coords.longitude ;
+        	
+	var img_url = "http://maps.googleapis.com/maps/api/staticmap?center=" + latlon +
+"&markers=color:green%7Clabel:T%7C" + latlon +
+"&zoom=14&size=600x300&sensor=false";
 
     document.getElementById("mapholder").innerHTML = "<img src='"+img_url+"'>";
 
