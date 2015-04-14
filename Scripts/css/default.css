@@ -55,7 +55,7 @@
 	{
 		overflow: hidden;
 		margin: 0em auto;
-		width: 1200px;
+		width: 100%;
 	}
 
 /*********************************************************************************/
@@ -161,6 +161,7 @@
 
 	.button
 	{
+		z-index: 0;
 		display: inline-block;
 		padding: 1em 2em 1em 2em;
 		letter-spacing: 0.10em;
@@ -172,14 +173,16 @@
 		font-weight: 700;
 		font-size: 1em;
 		color: #FFF;
+
 	}
 
 	.button-alt
 	{
-		padding: 1em 2em;
+		padding: 1.8em 1.8em;
 		border-color: rgba(0,0,0,.8);
 		color: rgba(0,0,0,.8);
 	}
+	
 
 /*********************************************************************************/
 /* 4-column                                                                      */
@@ -214,20 +217,23 @@
 	.boxB,
 	.boxC
 	{
-		width: 384px;
+		display: inline-block;
+		padding: 0.9vw;
+		width: 27vw;
+		
+  	transition-duration:          .45s;
+  	-moz-transition-duration:     .45s;
+ 	 -webkit-transition-duration:  .45s;
+  	-o-transition-duration:       .45s;
 	}
 
-	.boxA,
-	.boxB
-	{
-		float: left;
-		margin-right: 20px;
+ 	.boxA:hover,
+	.boxB:hover,
+	.boxC:hover {
+  	background: rgba(9, 9, 9, 0.09);
 	}
 
-	.boxC
-	{
-		float: right;
-	}
+	
 
 /*********************************************************************************/
 /* 2-column                                                                      */
@@ -287,7 +293,6 @@
 
 	#header-wrapper
 	{
-		position: relative;
 		padding: 5em 0em 7em 0em;
 		background: #111111 url(../../Images/header-bg.png) no-repeat center;
 		background-size: cover;
@@ -496,7 +501,7 @@
 
 	#welcome .container
 	{
-		width: 1000px;
+		width: 100;
 		padding: 0px 100px;
 		color: rgba(255,255,255,0.8);
 	}
