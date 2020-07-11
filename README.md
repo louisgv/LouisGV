@@ -9,6 +9,5 @@ Back
 ---
 
 ```diff
-- I do however, `~~DIE.~~`
 +❤️愛 ☮life ✋敬重 @@
 ```
