@@ -1,15 +1,15 @@
-<h1 style="margin: 0;">
+<div style="font-weight: 600;">
  We'll
-</h1>
-<h1 style="margin: 0;">
+</div>
+<div style="font-weight: 600;">
  Be
-</h1>
-<h1 style="margin: 0;">
+</div>
+<div style="font-weight: 600;">
  Right
-</h1>
-<h1 style="margin: 0;">
+</div>
+<div style="font-weight: 600;">
  Back
-</h1> 
+</div> 
  
  
  
