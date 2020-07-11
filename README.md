@@ -1,13 +1,13 @@
-<h1 style="margin: 0">
+<h1 style="margin: 0;">
  We'll
 </h1>
-<h1 style="margin: 0">
+<h1 style="margin: 0;">
  Be
 </h1>
-<h1 style="margin: 0">
+<h1 style="margin: 0;">
  Right
 </h1>
-<h1 style="margin: 0">
+<h1 style="margin: 0;">
  Back
 </h1> 
  
