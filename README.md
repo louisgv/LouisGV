@@ -1,8 +1,13 @@
-LouisGV
-=======
-
-Professional Portfolio, GitBlog
-
-Website practice, and much more
-
-Just initilized, Stay Tune!
+ # We'll
+ # Be
+ # Right
+ # Back
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+> I do however, ~~DIE.~~
+> ❤️愛 ☮life ✋敬重
