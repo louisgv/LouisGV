@@ -5,9 +5,4 @@ Right<br>
 Back 
 </h1>
 
- 
-```diff
-+❤️愛 ☮life ✋敬重 @@
-```
-
-![test](https://raw.githubusercontent.com/louisgv/louisgv/gh-pages/test.svg)
+![tagline](https://raw.githubusercontent.com/louisgv/louisgv/gh-pages/tagline.svg)
