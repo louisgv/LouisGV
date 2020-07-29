@@ -1,0 +1,82 @@
+<svg fill="none" viewBox="0 0 320 160" width="320" height="160" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+@keyframes rainbow-pulse {
+	0%,
+	100% {
+		font-weight: 900;
+		letter-spacing: 0.18em;
+		text-shadow:
+		0.9px 0 0 rgba(217,31,38, 0.85) ,
+		1.8px 0 0 rgba(226,91,14,0.75) ,
+		2.7px 0 0 rgba(245,221,8,0.8) ,
+		-0.9px 0 0 rgba(5,148,68,0.85) ,
+		-1.8px 0 0 rgba(2,135,206,0.9) ,
+		-2.7px 0 0 rgba(4,77,145,0.95) ,
+		-3.6px 0 0 rgba(42,21,113, 1) ;
+	}
+	50% {
+		text-shadow:
+		-1.8px 0 0 rgb(217,31,38) ,
+		-1.8px 0 0 rgb(226,91,14) ,
+		-1.8px 0 0 rgb(245,221,8) ,
+		-1.8px 0 0 rgb(5,148,68) ,
+		-1.8px 0 0 rgb(2,135,206) ,
+		-1.8px 0 0 rgb(4,77,145) ,
+		-1.8px 0 0 rgb(42,21,113);
+		font-weight: 900;
+		letter-spacing: normal;
+	}
+}
+
+
+.rainbow {
+	box-sizing: content-box;
+	cursor: pointer;
+	border: none;
+	font: Helvetica, sans-serif;
+	text-align: center;
+	text-overflow: clip;
+
+	text-shadow:
+	-1.8px 0 0 rgb(217,31,38) ,
+	-1.8px 0 0 rgb(226,91,14) ,
+	-1.8px 0 0 rgb(245,221,8) ,
+	-1.8px 0 0 rgb(5,148,68) ,
+	-1.8px 0 0 rgb(2,135,206) ,
+	-1.8px 0 0 rgb(4,77,145) ,
+	-1.8px 0 0 rgb(42,21,113);
+
+	transition: all 600ms cubic-bezier(0.68, -0.55, 0.265, 1.55);
+  
+  color: white;
+	animation: rainbow-pulse 1.8s ease-in-out infinite;
+
+}
+
+h1 {
+  font-family: Helvetica;
+  font-size: 24px;
+}
+
+.rainbow.active,
+.rainbow:hover {
+	font-weight: 100;
+	letter-spacing: 0.18em;
+
+	text-shadow:
+	0.9px 0 0 rgba(217,31,38, 0.85) ,
+	1.8px 0 0 rgba(226,91,14,0.75) ,
+	3.6px 0 0 rgba(245,221,8,0.8) ,
+	7.2px 0 0 rgba(5,148,68,0.85) ,
+	14.4px 0 0 rgba(2,135,206,0.9) ,
+	28.8px 0 0 rgba(4,77,145,0.95) ,
+	57.6px 0 0 rgba(42,21,113, 1) ;
+}
+
+</style>
+      <h1 class="rainbow">❤️愛 ☮life ✋敬重</h1>
+    </div>
+  </foreignObject>
+</svg>
